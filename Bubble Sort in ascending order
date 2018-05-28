@@ -11,5 +11,6 @@ def sort_asc(lst):
             
     return lst
 
-sort_list = sort_asc(list_numbers)
 sorted_list = sort_asc(list_numbers)
+sort_asc(list_numbers)
+sort_asc(list_numbers)
